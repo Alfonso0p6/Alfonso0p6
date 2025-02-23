@@ -1,4 +1,4 @@
-Hi 👋 My name is Alfonso Palomba
+Hi 👋 My name is Alfonso
 ================================
 
 Full stack developer
